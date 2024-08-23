@@ -20,6 +20,7 @@ A motivated and passionate DevOps engineer with a Bachelor’s degree in Communi
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ashrafelgohary/&title=Profile%20Views)
 
 ![Ashraf Elgohay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafelgohary&show_icons=true&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafelgohary&layout=compact&theme=radical)
 ---
 
 ### 💫 About Me:
