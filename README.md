@@ -27,7 +27,7 @@ A motivated and passionate DevOps engineer with a Bachelor’s degree in Communi
 - 🌱 I’m currently exploring System Administration and DevOps technologies.
 - 🎓 Certifications: RHCSA.
 ---
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ashrafelgohary.AshrafElgohary)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ashrafelgohary.ashrafelgohary)
 
 
 ## 💻 Skills and Tools:
