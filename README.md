@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 A motivated and passionate DevOps engineer with a Bachelor’s degree in Communication Engineering and a graduate of the ITI System Administrator track. Experienced in Linux system administration, with proficiency in tools like Ansible, Docker, Kubernetes, Terraform, and Jenkins CI/CD pipelines. I'm eager to expand my expertise in DevOps and contribute to innovative projects within a forward-thinking company.
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ashrafelgohary/&title=Profile%20Views)
 
-![Ashraf Elgohary's GitHub stats](https://github-readme-stats.vercel.app/api?ashrafelgohary=anuraghazra&show_icons=true&theme=radical)
+![Ashraf Elgohay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafelgohary&show_icons=true&theme=radical)
 ---
 
 ### 💫 About Me:
