@@ -25,7 +25,9 @@ A motivated and passionate DevOps engineer with a Bachelor’s degree in Communi
 
 ### 💫 About Me:
 - 🌱 I’m currently exploring System Administration and DevOps technologies.
-- 🎓 Certifications: RHCSA.
+###   - 🎓 Certifications:
+- Red Hat Certified System Administrator (RHCSA ID: 240-170-522).
+- AWS Certified Cloud Practitioner (Validation no: b9b68f9b920d469abf54cbc6899e8cf0)
 ---
 ## Visitor Count
 
